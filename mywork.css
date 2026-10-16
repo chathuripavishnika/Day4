@@ -35,3 +35,9 @@ body{
     background-color:gold;
 }
 
+.button{
+    text-align: center;
+    background-color: darkblue;
+    color: aliceblue;
+}
+
