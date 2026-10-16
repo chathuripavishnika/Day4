@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    background-color: rgb(137, 229, 44);
+    color: darkgreen;
+
+    border: 8px solid black ;
+    padding: 10px;
+
+}
+
+
+h2{
+    text-align: center;
+   background-color: rgb(107, 189, 138);
+    color: rgb(42, 37, 37);
+
+    border: 5px solid blue ;
+    padding: 5px;
+}
+
+.class-img {
+    
+
+    border: 12px solid brown;
+    padding: 5px;
+
+    background-color: cornsilk;
+    
+}
+
+body{
+    background-color: rgb(66, 114, 66);
+}
+
+.title{
+
+   text-align: center;
+   color:azure;
+}
+
+.title1{
+    text-align: center;
+    color: azure;
+
+}
+
+h2{
+    text-align: center;
+    color: blue;
+    border-color: gray;
+
+}
+
+
