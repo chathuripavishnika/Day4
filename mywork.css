@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    background-color:deeppink;
+    color:rgb(18, 9, 9);
+
+    border: 8px black ;
+    padding: 10px;
+
+}
+
+.title{
+    text-align: center;
+    color: darkblue;
+    margin-top: 30px;
+
+}
+
+h2{
+    text-align: center;
+    background-color:aqua;
+    color: black;
+
+    
+
+}
+
+.clothes {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+
